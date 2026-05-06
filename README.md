@@ -32,3 +32,8 @@ Example:
 
 ```bash
 python inference.py --checkpoint best_model.pth --input myface.jpg
+## Demo
+
+A demo is included at the end of `training.ipynb`, where a sample face image is displayed and the trained model predicts the facial expression.
+
+
